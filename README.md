@@ -7,4 +7,4 @@
 ##
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=maT-bg&show_icons=true&theme=dracula&heigt"></img>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maT-bg&layout=compact&theme=dracula"></img>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maT-bg&layout=compact&theme=dracula"></img>
