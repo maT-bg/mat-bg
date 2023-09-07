@@ -6,5 +6,6 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maT-bg&theme=dracula)](https://github.com/maT-bg/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maT-bg&theme=dracula&layout=compact)](https://github.com/maT-bg/github-readme-stats)
+<picture>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maT-bg&show_icons=true&theme=dracula&layout=compact"/>
+</picture>
